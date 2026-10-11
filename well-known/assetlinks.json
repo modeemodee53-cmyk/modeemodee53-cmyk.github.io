@@ -1,8 +1,0 @@
-[{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "com.nursecare.app",
-        "sha256_cert_fingerprints": ["F0:6F:5C:C6:F5:AB:B7:FF:A2:54:1A:6C:03:5E:98:53:4A:5F:7A:3A:D2:7A:68:26:93:86:38:DA:62:C5:A5:4F"]
-      }
-    }]
